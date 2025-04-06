@@ -2,4 +2,4 @@
 
 I have done a Excel project which is a Business Intelligence (BI) analysis of customer credit card data, designed to provide insights into customer demographics, financial status, and employment details.The HR Data sheet contains key customer information, including gender, education, family status, and employment details such as years worked and occupation type.The file also includes multiple Pivot Tables likely used to summarize and analyze trends in customer behavior, income distribution, and financial stability.Additionally, there is a BI Dashboard intended for data visualization. Other sheets like Add Inf and Temp may serve as supporting datasets or intermediary calculations.Overall, this project seems to focus on analyzing customer profiles and financial characteristics to derive meaningful insights for credit card-related decision-making.
 
-MS EXEL PROJECT FILE: https://docs.google.com/spreadsheets/d/1QY6Tj-M95MSJwXErr55K4P9mw_z0jkbT/edit?usp=sharing&ouid=101030021185584240814&rtpof=true&sd=true
+MS EXEL PROJECT FILE: https://docs.google.com/spreadsheets/d/1AnHPPQbNLa6v5r2RCqauEGDjIR8nGq1V/edit?usp=sharing&ouid=101030021185584240814&rtpof=true&sd=true
